@@ -23,3 +23,4 @@ The main aim of this to have a basic structure, which can be easily adjusted to 
 - Many possible improvements remain. Comments and contributions are welcome!
 
 #class tutorial exercise
+Fixing issue exercise
